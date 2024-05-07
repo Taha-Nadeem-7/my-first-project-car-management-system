@@ -1,0 +1,4 @@
+['NISSAN', 'GTR', 2018, 10000000.0, 'Orange', 'NIS-001', ['']]
+['FERRARI', 'J50', 2019, 190000000.0, 'RED', 'FER-001', ['NITRO']]
+['NISSAN', 'Kicks', 2019, 5000000.0, 'white', 'NIS-001', ['']]
+['NISSAN', 'KICKS', 2019, 5000000.0, 'white', 'NIS-002', ['']]
