@@ -1,0 +1,2 @@
+['TOYOTA', 'COROLLA', 2009, 2000000.0, 'White', 'TRY-009', ['']]
+['honda', 'civic', 2003, 1000000.0, 'white', 'hon-800', ['']]
