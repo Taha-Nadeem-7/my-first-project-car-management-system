@@ -198,16 +198,3 @@ while True:
             raise ValueError("Please enter a Number in between 1-7")
     except (TypeError,ValueError):
         print("Invalid input")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
